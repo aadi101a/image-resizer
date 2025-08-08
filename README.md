@@ -21,3 +21,10 @@ A simple web application to upload and resize images using HTML, CSS, and JavaSc
 
 ##  Live Demo
 [Try the Image Resizer Now](https://aadi101a.github.io/image-resizer/)
+
+
+##  Author
+- [Mohd Adeeb](https://github.com/aadi101a)
+
+##  License
+This project is licensed under the [MIT License](LICENSE).
