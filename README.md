@@ -18,3 +18,6 @@ A simple web application to upload and resize images using HTML, CSS, and JavaSc
 3. Enter the desired width and height.
 4. Click "Resize" to generate the new image.
 5. Download the resized image.
+
+##  Live Demo
+[Try the Image Resizer Now](https://aadi101a.github.io/image-resizer/)
